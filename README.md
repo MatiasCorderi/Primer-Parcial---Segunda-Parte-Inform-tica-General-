@@ -1,2 +1,2 @@
-# Primer-Parcial---Segunda-Parte-Inform-tica-General-
+# Primer-Parcial - Segunda Parte - IG
 Segunda Parte del parcial de Informática General
